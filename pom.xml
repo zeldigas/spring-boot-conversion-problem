@@ -6,6 +6,8 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.1.9.RELEASE</version>
+<!--		uncomment version below to see that it fixes problem-->
+<!--		<version>2.2.0.RELEASE</version>-->
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>

@@ -1,5 +1,7 @@
 Sample project showing problem with configuration properties exception
 
+**UPD: it is fixed with boot 2.2.0.RELEASE. See https://github.com/spring-projects/spring-boot/issues/18509 for details**
+
 By default application would show the problem
 
 # Extra tests
